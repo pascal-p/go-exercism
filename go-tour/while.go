@@ -17,5 +17,5 @@ func main() {
 	fmt.Println(sum)
 }
 
-// go run for.go
-// 45
+// go run while.go
+// 1024
